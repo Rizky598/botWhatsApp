@@ -25,3 +25,8 @@ Untuk menghapus folder bernama session di Termux kamu bisa gunakan perintah beri
 ```bash
 rm -rf session
 ```
+untuk mengganti Apikey
+
+```bash
+cd config.js
+```
