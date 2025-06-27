@@ -17,8 +17,8 @@ git clone https://github.com/Rizky598/WABOT.git
 cd WABOT
 tar -xvzf archive-2025-06-26T065303Z.tar.gz
 cd extracted_folder/
-chmod +x install-bot.sh
-sh install-bot.sh
+chmod +x install.sh
+sh install.sh
 ```
 Untuk menghapus folder bernama session di Termux kamu bisa gunakan perintah berikut😊
 
